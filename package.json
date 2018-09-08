@@ -1,0 +1,20 @@
+{
+  "name": "ms-node-skaffold-demo",
+  "version": "1.0.0",
+  "description": "Simple Demo of Launching Node Server 100% Locally With Skaffold",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skaffold-microservices/node-skaffold-demo.git"
+  },
+  "author": "Irakli Nadareishvili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skaffold-microservices/node-skaffold-demo/issues"
+  },
+  "homepage": "https://github.com/skaffold-microservices/node-skaffold-demo#readme"
+}
